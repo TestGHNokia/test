@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\ConnectingPeople\bin\Debug\ConnectingPeople.exe
+C:\Users\Admin\source\repos\ConnectingPeople\bin\Debug\ConnectingPeople.pdb
+C:\Users\Admin\source\repos\ConnectingPeople\obj\Debug\ConnectingPeople.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConnectingPeople\obj\Debug\ConnectingPeople.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConnectingPeople\obj\Debug\ConnectingPeople.exe
+C:\Users\Admin\source\repos\ConnectingPeople\obj\Debug\ConnectingPeople.pdb
